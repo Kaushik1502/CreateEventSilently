@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CreateEventSilently</string>
+    <string name="open_calendar">Open Calendar</string>
+</resources>
